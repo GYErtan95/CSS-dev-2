@@ -1,0 +1,53 @@
+.google-logo{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.bg-white{
+    background-color: rgb(221, 219, 219);
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.left{
+    background-color: #7ee5da;
+    float: left;
+    width: 34%;
+    height: 100px;
+    margin-left: 94.6px;
+    margin-top: 1px;
+    margin-right: 2px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.center{
+    background-color: #7ee5da;
+    float: left;
+    width: 233.422px;
+    height: 100px;
+    margin-left: 2px;
+    margin-top: 1px;
+    margin-right: 2px;
+    text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.right {
+    background-color: #7ee5da;
+    width: 36.2%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 2px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.clear{
+    clear: both;
+}
+footer{
+    text-align: center;
+}
